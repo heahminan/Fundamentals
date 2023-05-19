@@ -1,3 +1,26 @@
+/*
+How many hours did you spend on this assignment?:
+
+I recalled 32 hours.
+
+What part of the assignment did you spend the most time on?:
+
+Understanding the game with pseudo code
+
+How comfortable did you feel with this assignment? (1-5):
+
+3
+
+Is there anything in this code that you feel pleased about?:
+
+I DRY my updateResultMessage function.
+
+What's one aspect of your code you would like specific, elaborate feedback on?:
+
+Pseudo code?
+
+*/
+
 var gameMode = "wait for user name input";
 var userName = "";
 var numberOfPlays = 0;
